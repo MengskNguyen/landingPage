@@ -9,7 +9,7 @@ function EricVuong() {
         <iframe
             title="iframe"
             className={cx('iframe')}
-            src="https://lookerstudio.google.com/embed/reporting/ec77633a-630c-456d-98ac-a153b7253524/page/p_mddouh4y6c"
+            src="https://lookerstudio.google.com/embed/u/0/reporting/23c53c67-7697-4087-9733-16430bc424d6/page/p_kdnf9oz17c"
             allowfullscreen
         ></iframe>
     );
