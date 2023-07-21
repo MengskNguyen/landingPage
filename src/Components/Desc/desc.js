@@ -64,12 +64,12 @@ function Desc() {
             <div className={cx('text-container')}>
                 <h1>At AI Finance, you're more than just an investor, you're an owner.</h1>
                 <p>
-                    AI Finance isn't owned by public shareholders. It's owned by the people who invest their trust on
-                    us.*
+                    AI Finance is not in the possession of public shareholders; instead, it belongs to those who place
+                    their trust and investments with us.
                 </p>
                 <p>
-                    Our owners have access to personalized financial advice, high-quality investments, and relevant
-                    market insights that help you build a future for those you love.
+                    Our proprietors benefit from tailored financial guidance, top-notch investment opportunities, and
+                    pertinent market knowledge, all assisting them in creating a promising future for their loved ones.
                 </p>
 
                 <button className={cx('view-btn')} onClick={toggleModel}>
