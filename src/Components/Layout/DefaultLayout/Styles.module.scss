@@ -1,0 +1,31 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: var(--primary-black);
+    height: 5rem;
+    opacity: 50%;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: var(--padding);
+    padding-right: var(--padding);
+}
+
+.logo {
+    width: 70px;
+    padding-top: 5px;
+    opacity: 100% !important;
+}

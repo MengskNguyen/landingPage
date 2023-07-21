@@ -1,0 +1,23 @@
+.wrapper {
+    background-color: black;
+    padding-left: var(--padding);
+    padding-right: var(--padding);
+    color: var(--primary-white);
+    background-size: contain;
+    background-repeat: repeat;
+    background-position: center center;
+
+    .child {
+        padding-top: 5rem;
+
+        h1 {
+            font-size: 4rem;
+        }
+
+        p {
+            font-size: 2rem;
+            margin-top: 1rem;
+            font-weight: 200;
+        }
+    }
+}
